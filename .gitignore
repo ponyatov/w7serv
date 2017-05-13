@@ -1,0 +1,17 @@
+*~
+*.swp
+.ssh/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+Favorites/
+Links/
+NTUSER*
+Saved Games/
+Searches/
+_viminfo
