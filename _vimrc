@@ -1,5 +1,7 @@
 source $VIMRUNTIME\..\_vimrc
 
+set noundofile
+
 colorscheme darkblue
 
 set number
